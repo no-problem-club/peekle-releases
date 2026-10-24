@@ -5,7 +5,7 @@ This applies to the installers of Peekle (shown as Peek inside the app). This re
 
 ## 한국어
 
-Copyright © 2026 No Problem Club. All rights reserved.
+Copyright © 2026 Jiwon Cho (No Problem Club). All rights reserved.
 
 **사용해도 되는 것**
 
@@ -31,7 +31,7 @@ Copyright © 2026 No Problem Club. All rights reserved.
 
 ## English
 
-Copyright © 2026 No Problem Club. All rights reserved.
+Copyright © 2026 Jiwon Cho (No Problem Club). All rights reserved.
 
 **You may**
 
