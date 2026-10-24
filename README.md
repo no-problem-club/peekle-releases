@@ -8,6 +8,9 @@ A desktop launcher and dock for Windows and macOS. Up to five icons at the edge 
 이 저장소에는 설치 파일만 있습니다. 소스 코드는 공개하지 않습니다.
 This repository holds installers only. The source code is not public.
 
+만든 곳: [No Problem Club](https://no-problem.club/projects/peek-widget/) ([@no_problem.club](https://www.instagram.com/no_problem.club))
+Made by [No Problem Club](https://no-problem.club/projects/peek-widget/) ([@no_problem.club](https://www.instagram.com/no_problem.club))
+
 ---
 
 ## 한국어
