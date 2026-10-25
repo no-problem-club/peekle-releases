@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "date": "2026-10-13",
-  "notes": "처음 시작하기 쉽게, 고치기·지우기 버튼, 위젯 자리 밀림 수정",
-  "notes_en": "Easier first start, edit and remove buttons, fixes for widget position",
-  "windows": "https://github.com/no-problem-club/peekle-releases/releases/download/v1.1.1/Peek_1.1.1_x64-setup.exe",
-  "mac": "https://github.com/no-problem-club/peekle-releases/releases/download/v1.1.1/Peek_1.1.1_universal.dmg"
+  "version": "1.1.2",
+  "date": "2026-10-24",
+  "notes": "툴팁 테두리를 얇게, Esc 때 툴팁 숨김, 켤 때 위치를 먼저 잡도록 수정",
+  "notes_en": "Thinner tooltip border, tooltips hide on Esc, widget position is set first on launch",
+  "windows": "https://github.com/no-problem-club/peekle-releases/releases/download/v1.1.2/Peek_1.1.2_x64-setup.exe",
+  "mac": "https://github.com/no-problem-club/peekle-releases/releases/download/v1.1.2/Peek_1.1.2_universal.dmg"
 }
