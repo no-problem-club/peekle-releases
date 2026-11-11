@@ -1,11 +1,13 @@
 # Peek
 
 윈도우와 맥에서 쓰는 바탕화면 런처 위젯입니다. 화면 가장자리에 아이콘을 최대 5개까지 두고 웹페이지, 프로그램, 파일, 폴더를 한곳에서 엽니다. 맥에서는 메뉴 막대에 둘 수도 있습니다.
+
 A desktop launcher and dock for Windows and macOS. Up to five icons at the edge of your screen open web pages, programs, files and folders from one place. On a Mac, Peek can also sit under the menu bar.
 
 [한국어](#한국어) · [English](#english)
 
 이 저장소에는 설치 파일만 있습니다. 소스 코드는 공개하지 않습니다. 사용 조건은 [LICENSE](LICENSE.md)에 있습니다.
+
 This repository holds installers only. The source code is not public. The terms of use are in [LICENSE](LICENSE.md).
 
 Made by [No Problem Club](https://no-problem.club/projects/peek-widget/) ([@no_problem.club](https://www.instagram.com/no_problem.club))
